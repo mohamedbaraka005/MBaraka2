@@ -3,5 +3,5 @@ any text
 folder here 
 =======
 
-text from remote
+text from internet
 >>>>>>> f243e1b514006caa0e030713b5e9fbf88c65fb07
