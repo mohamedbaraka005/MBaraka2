@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 any test text
+=======
+any test text
+another text
+>>>>>>> Stashed changes
