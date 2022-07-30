@@ -1,2 +1,7 @@
 any text
+<<<<<<< HEAD
 folder here 
+=======
+
+text from remote
+>>>>>>> f243e1b514006caa0e030713b5e9fbf88c65fb07
